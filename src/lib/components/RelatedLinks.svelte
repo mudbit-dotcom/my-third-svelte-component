@@ -9,8 +9,8 @@ USAGE EXAMPLE:
 <RelatedLinks
   title="RELATED STORIES"
   links={[
-    { headline: 'Mayor Announces New Transit Plan', href: '/transit-plan' },
-    { headline: 'Budget Talks Continue Downtown', href: '/budget-talks' }
+    { headline: 'Behind the scences at NYFW', href: '/culture' },
+    { headline: 'An interview with a beauty expert', href: '/beauty' }
   ]}
 />
 -->
@@ -103,3 +103,4 @@ USAGE EXAMPLE:
     }
   }
 </style>
+

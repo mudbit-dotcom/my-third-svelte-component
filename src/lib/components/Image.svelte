@@ -7,7 +7,7 @@ Supports different sizes and optional credit attribution.
 
 USAGE EXAMPLE:
 <Image
-  src="/images/city-hall.jpg"
+  src="/images/niya.JPG"
   alt="City Hall building at sunset"
   caption="City Hall, where the budget vote took place Tuesday evening."
   credit="Jane Smith / The Daily News"
